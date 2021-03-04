@@ -55,18 +55,30 @@ Exam 1
 |*Parzen window*| A technique for nonparametric density estimation, which can also be used for classification. Using a given kernel function, the technique approximates a given training set distribution via a linear combination of kernels centered on the observed points. (Brown, 1999); A probability density function that acts as a method for smoothing the the sample spectrum by implementing a truncation point (Woodward, 2017).
 |*AR(1)*|A linear model that predicts the present value of a time series using the immediately prior value in time (Sample ACF and Properties of AR(1) Model, 2020).
 
-####References 
-
+  
+## References
 Aperiodic Definition and Meaning. (2010). Retrieved March 01, 2021, from https://www.collinsdictionary.com/us/dictionary/english/aperiodic
+
 Bressler, S. L. (2013). Time Series and Stochastic Processes. Retrieved March 01, 2021, from http://www.ccs.fau.edu/~bressler/EDU/STSA/Modules/I.pdf
-Brown, M. (1999, November 5). Parzen Windows. Retrieved March 01, 2021, from https://compbio.soe.ucsc.edu/genex/genexTR2html/node11.html
-Christensson, P. (2017, January 13). Kernel Definition. Retrieved 2021, Mar 3, from https://techterms.com
-Christensson, P. (2006). Runtime Definition. Retrieved 2021, Mar 3, from https://techterms.com
+
+Brown, M. (1999, November 5). Parzen Windows. Retrieved March 01, 2021, from [https://compbio.soe.ucsc.edu/genex/genexTR2html/node11.html](https://compbio.soe.ucsc.edu/genex/genexTR2html/node11.html)
+
+Christensson, P. (2017, January 13). Kernel Definition. Retrieved 2021, Mar 3, from [https://techterms.com](https://techterms.com)
+
+Christensson, P. (2006). Runtime Definition. Retrieved 2021, Mar 3, from [https://techterms.com](https://techterms.com)
+
 Estimating the Spectral Density. (2020, September 26). Retrieved March 01, 2021, from https://online.stat.psu.edu/stat510/lesson/12/12.1
-Giovannini, E. (2001, September 25). OECD Glossary of Statistical Terms. Retrieved March 01, 2021, from https://stats.oecd.org/glossary/detail.asp?ID=2708
-Kenton, W. (2020, June 27). Sum of Squares. Retrieved March 03, 2021, from https://www.investopedia.com/terms/s/sum-of-squares.asp
+
+Giovannini, E. (2001, September 25). OECD Glossary of Statistical Terms. Retrieved March 01, 2021, from [https://stats.oecd.org/glossary/detail.asp?ID=2708](https://stats.oecd.org/glossary/detail.asp?ID=2708)
+
+Kenton, W. (2020, June 27). Sum of Squares. Retrieved March 03, 2021, from [https://www.investopedia.com/terms/s/sum-of-squares.asp](https://www.investopedia.com/terms/s/sum-of-squares.asp)
+
 Oxford languages and Google - English. (n.d.). Retrieved March 03, 2021, from https://languages.oup.com/google-dictionary-en/
+
 Sample ACF and Properties of AR(1) Model. (2020, September 26). Retrieved March 01, 2021, from https://online.stat.psu.edu/stat510/lesson/1/1.2
+
 Stark, P. B. (2019, September 2). Glossary of Statistical Terms. Retrieved March 1, 2021, from https://www.stat.berkeley.edu/~stark/SticiGui/Text/gloss.htm
-Time Domain Analysis vs Frequency Domain Analysis: A Guide and Comparison (1223922544 910230131 C., Trans.). (2020). Retrieved March 01, 2021, from https://resources.pcb.cadence.com/blog/2020-time-domain-analysis-vs-frequency-domain-analysis-a-guide-and-comparison
-Woodward, W. A., Gray, H. L., & Elliott, A. C. (2017). Applied time series analysis with R. Boca Raton, FL: CRC Press, Taylor & Francis Group.
+
+Time Domain Analysis vs Frequency Domain Analysis: A Guide and Comparison (1223922544 910230131 C., Trans.). (2020). Retrieved March 01, 2021, from [https://resources.pcb.cadence.com/blog/2020-time-domain-analysis-vs-frequency-domain-analysis-a-guide-and-comparison](https://resources.pcb.cadence.com/blog/2020-time-domain-analysis-vs-frequency-domain-analysis-a-guide-and-comparison)
+
+Woodward, W. A., Gray, H. L., & Elliott, A. C. (2017). Applied time series analysis with R. Boca Raton, FL: CRC Press, Taylor & Francis Group. 
