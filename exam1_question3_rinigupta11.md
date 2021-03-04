@@ -1,7 +1,10 @@
 # Vocab Term Definitions 
 Rini Gupta
+
 Applied Time Series Analysis (DATA 330)
+
 Exam 1 
+
 2/28/21
 
 ## Section 0 
